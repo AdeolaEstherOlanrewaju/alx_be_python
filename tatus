@@ -1,0 +1,236 @@
+[33mcommit 32dbbddcfc2cfae9fd555d7c2a4e53d1cd6b1cde[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Wed Jul 9 22:47:05 2025 +0100
+
+    Resolved merge conflict and added untracked files
+
+[33mcommit d7ccfb0f025bb00ea3035e369899d5cc74affb8b[m
+Merge: a87b546 e430661
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Wed Jul 9 22:37:23 2025 +0100
+
+    Resolved merge conflict and added untracked files
+
+[33mcommit a87b546e6d8b1176cfe9587dd6ad40e97c43c3df[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Wed Jul 9 22:20:38 2025 +0100
+
+    Initial commit - Simple BankAccount class and main script
+
+[33mcommit e43066186e733dd26fbe8da0d1d5fc7532d858c3[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:57:23 2025 +0100
+
+    Add temperature conversion script using global scope and validation
+
+[33mcommit 76b549daf97ab3d4d1e951f396702047bcc733a3[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:53:51 2025 +0100
+
+    Add temperature conversion script using global scope and validation
+
+[33mcommit 00bfdd58f81e080ac052741700c89118e5c72a21[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:43:53 2025 +0100
+
+    Add explore_datetime.py script to display current and future dates
+
+[33mcommit 7006f2df57f842883d1e462d764675d08f5fed40[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:34:06 2025 +0100
+
+    Fix: Use exact prompt string 'Enter the item to add:' to pass checks
+
+[33mcommit 4b09358945b13c28092bdf48aeca8f257ad06c0f[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:30:01 2025 +0100
+
+    Fix: Correct display_menu formatting and menu options
+
+[33mcommit 3b86068554a41f4c8ce1b17005e6444ac6c0034b[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:24:13 2025 +0100
+
+    Fix: Convert input to integer for menu choice
+
+[33mcommit cd7e205982e28b4817da8cccd4f9d377d1ee9a44[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:18:28 2025 +0100
+
+    Add shopping list manager script
+
+[33mcommit 915a6bae2bcd995ff98d6de09b435502fa78c475[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 21:05:24 2025 +0100
+
+    Add shopping list manager script
+
+[33mcommit 6134e8c8b178b08303f920c20054506e0adf5428[m
+Merge: e199cbc f984db6
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 20:04:41 2025 +0100
+
+    Merge branch 'main' of https://github.com/AdeolaEstherOlanrewaju/alx_be_python
+    t push -u origin main
+    git push -u origin main
+    Merged remote changes into main
+
+[33mcommit e199cbce9c21adfad100b99d6ab323cb5d90705c[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sat Jun 7 19:53:21 2025 +0100
+
+    Add perform_operation function for basic arithmetic operations
+
+[33mcommit f984db6a6ba8486e0f4f7e9283870209fc8f109f[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue Jun 3 00:20:05 2025 +0100
+
+    Remove Documents and Downloads folders from repository
+
+[33mcommit e5af074694757be41f8e2d011a1369c80de6e83f[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue Jun 3 00:13:04 2025 +0100
+
+    Add daily_reminder.py script to control-flow
+
+[33mcommit b5eb55923a2c488246b1105bd52ff73b26749fc7[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue Jun 3 00:08:39 2025 +0100
+
+    Add pattern_drawing.py to control-flow
+
+[33mcommit 9f517c15fe03ac9b1f49a8d0f691055cef60cca2[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue Jun 3 00:05:07 2025 +0100
+
+    Add multiplication_table.py to control-flow
+
+[33mcommit 1444601b5552a0a440944869b00b057d9e767d51[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Mon Jun 2 23:58:47 2025 +0100
+
+    Add match_case_calculator.py to control-flow
+
+[33mcommit 2267f35934e78af294d5ab2ad1a38facc007499f[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Mon Jun 2 22:37:34 2025 +0100
+
+    Add weather_advice.py to control-flow directory
+
+[33mcommit f16d3f342670e742b3af8979f71456690ab9d8bd[m
+Merge: e8b1775 80fe46c
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Mon Jun 2 22:08:08 2025 +0100
+
+    Merge branch 'main' of https://github.com/AdeolaEstherOlanrewaju/alx_be_python
+
+[33mcommit e8b177546e928674e8990e6d908ceabaef683b00[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Mon Jun 2 19:02:22 2025 +0100
+
+    Add weather_advice.py
+
+[33mcommit 0f57dc97c74e3a1c4db7053926df295ea426c651[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sun Jun 1 23:56:48 2025 +0100
+
+    Add match_case_calculator.py
+
+[33mcommit a5dcde69dfc641f9cce8968d1c6e354f3518f163[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Sun Jun 1 22:15:36 2025 +0100
+
+    Add weather_advice.py to control-flow task
+
+[33mcommit 80fe46c2f5be649c89e8883e6fa110328fd77a82[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 22:06:19 2025 +0100
+
+    Add finance_calculator.py to calculate monthly and projected savings
+
+[33mcommit 1afe17c5d74e5c9a60227ef2bfaee27e7d4e7834[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 21:58:54 2025 +0100
+
+    Add future_age_calculator.py to calculate age in 2050
+
+[33mcommit 198682556dad83de5cbe27c35735695ae23eca4a[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 21:40:28 2025 +0100
+
+    Add hours_to_seconds.py to convert hours to seconds
+
+[33mcommit 2ce8bb84a0b0ae8efff9125bdc0c7f828de3db57[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 21:19:55 2025 +0100
+
+    Move .py files into python_introduction folder
+
+[33mcommit b11910135c2068112c9e64dd592ac282d923cce6[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 20:34:29 2025 +0100
+
+    Add rectangle_area.py to calculate rectangle area
+
+[33mcommit e444e671c00d25ee477ace8fa5ef67c0c5b2c8cc[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 20:16:59 2025 +0100
+
+    Add rectangle_area.py to calculate area of a rectangle
+
+[33mcommit 955122d8601e1eb69fdad4f585e86ab4fc119a34[m
+Author: Adeola Olanrewaju <Olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 20:54:01 2025 +0100
+
+    Update simple_interest.py
+
+[33mcommit cbad9ae8d52e49a21942cf2752a1ae58bd859e8d[m
+Author: Adeola Olanrewaju <Olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 20:10:36 2025 +0100
+
+    Delete simple_interest.py
+
+[33mcommit 778ce1b45f814ce0420a3b77a62d6f4c7a81391c[m
+Author: Adeola Olanrewaju <Olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 20:08:37 2025 +0100
+
+    Create simple_interest.py
+
+[33mcommit 4923dec851506bea134877dc8c73960e2c4d1485[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 20:00:04 2025 +0100
+
+    Add simple_interest.py inside python_introduction folder
+
+[33mcommit d2580083b8181c6fb68efaded1450ebe5206af01[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 19:46:46 2025 +0100
+
+    Add simple_interest.py inside python_introduction folder
+
+[33mcommit b42701ec5325a8b5d9841b6aacf84a9546e4113f[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 19:30:37 2025 +0100
+
+    Add simple_interest.py to calculate simple interest
+
+[33mcommit f56b9c7c4bc5c82fdc1412b49280be374ef7c5c8[m
+Author: Adeola Olanrewaju <Olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 10:27:43 2025 +0100
+
+    Delete basic_operations.py
+
+[33mcommit 073acaae388e7bbdeebefe3f1c1d1413a4a3d02b[m
+Author: Adeola Olanrewaju <Olanrewajuadeola58@gmail.com>
+Date:   Tue May 20 10:14:55 2025 +0100
+
+    Create basic_operations.py
+
+[33mcommit a1b9cfd26aea2fc1e5d1bc8fab1c710d77307597[m
+Author: Adeola Olanrewaju <olanrewajuadeola58@gmail.com>
+Date:   Mon May 19 23:41:18 2025 +0100
+
+    Add basic_operations.py for basic arithmetic operations
+
+[33mcommit 0b1e87bd576470c98ef5cf80e7c57299f9c75040[m
+Author:
